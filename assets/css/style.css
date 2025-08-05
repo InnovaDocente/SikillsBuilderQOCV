@@ -1,0 +1,43 @@
+/* Título principal de sección */
+.titulo-primario {
+    font-size: 26px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 16px;
+    color: #FFFFFF;
+}
+
+/* Subtítulos de bloques */
+.titulo-secundario {
+    font-size: 26px;
+    font-weight: 600;
+    margin-top: 24px;
+    margin-bottom: 12px;
+    color: #FFFFFF;
+}
+
+/* Texto general */
+.texto {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333333;
+    margin-bottom: 16px;
+}
+
+/* Caja de nota o consejo */
+.nota {
+    background-color: #e3f2fd;
+    border-left: 4px solid #2196f3;
+    padding: 12px 16px;
+    border-radius: 6px;
+    font-size: 15px;
+    color: #0d47a1;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+/* Separador visual */
+.separador {
+    border-top: 1px solid #cccccc;
+    margin: 30px 0;
+}
